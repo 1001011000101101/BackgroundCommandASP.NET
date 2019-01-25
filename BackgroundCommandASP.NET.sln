@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundCommandASP.NET", "BackgroundCommandASP.NET\BackgroundCommandASP.NET.csproj", "{757EA62A-A3EF-4D1D-A591-E1B42672D824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757EA62A-A3EF-4D1D-A591-E1B42672D824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757EA62A-A3EF-4D1D-A591-E1B42672D824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757EA62A-A3EF-4D1D-A591-E1B42672D824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757EA62A-A3EF-4D1D-A591-E1B42672D824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B14E3B30-7B97-4232-AD9C-4C8D42BC28F2}
+	EndGlobalSection
+EndGlobal
